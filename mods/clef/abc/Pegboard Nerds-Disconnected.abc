@@ -1,0 +1,85 @@
+%abc-2.1
+%%song-title       PegboardNerds - Disconnected  Huntroxic 20131107161035
+%%song-duration    2:06
+%%abc-creator Maestro v2.3.0
+%%abc-version 2.1
+
+X: 1
+T: PegboardNerds - Disconnected  Huntroxic 20131107161035 (2:06) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 120
+K: C maj
+
++f+ c c c2 c c c c |
+B B B e- e e e e |
+c c c2 c c c c |
+d g g d- d d A B |
+c c c2 c c c c |
+B B B e- e e e e |
+c c c2 c c c c |
+d g g d- d d A B |
+c c c2 c c [cc'] [cc'-] |
+% Bar 10 (0:18)
+[Bc'] [Bd-] [Bd] e- e e e e |
+c c c2 [cc'] [cc'-] [cc'] [cc'] |
+d g g d- d d A B |
+c c c2 [ca] [ca-] [ca] [cg-] |
+[Bg] [Be-] [Be] [e-c'-] [ec'-] [ec'-] [ec'-] [ec'] |
+[cc'-] [cc'-] [c-c'] [cd-] [cd] [cg-] [cg] [cd] |
+d- [d-g] [dg] d- d d- [Ad-] [Bd] |
+c' c'- c'2 c' c'- c'2 |
+b b b e- e e e/ d/ c'/ a/ |
+c' c'- c'2 c' c'- c' c' |
+% Bar 20 (0:38)
+d g- g d- d2 a b |
+f f- f2 f f- f f |
+e c' b a- a a a/ b/ c'/ b/ |
+a3 g- g g- g e- |
+e8 |
+e2 e2 e2 e2 |
+e2 e2 e2 e2 |
+e2 e2 e2 e2 |
+e2 e2 e2 e2 |
+e2 e2 e2 e2 |
+% Bar 30 (0:58)
+e2 e2 e2 e2 |
+e e e e e e e e |
+e/ e/ e/ e/ e/ e/ e/ e/ z4 |
+c c z2 c c z2 |
+B B B e- e e e/ d/ c/ A/ |
+c c z2 c c z c |
+d g- g d- d2 A B |
+c c z2 c c z c |
+d c d e z e e/ d/ c/ A/ |
+c c z2 c c z c' |
+% Bar 40 (1:18)
+b g e a- a z A B |
+c c z2 c c z2 |
+B B B e- e e e/ d/ c/ A/ |
+c c z2 c c z c |
+d g- g d- d2 A B |
+f f z2 f f z f |
+e c B A- A a a/ b/ c'/ b/ |
+a3 g- g g- g e- |
+e4 z4 |
+c c z2 c c z2 |
+% Bar 50 (1:38)
+B B/ B/ B e- e e e/ d/ c/ A/ |
+c c e/ d/ c/ A/ c c e/ d/ c/ A/ |
+c d g d- d2 e/ d/ c/ A/ |
+c c e/ d/ c/ A/ c c z e |
+d e g a- a a b/ c'/ d/ c'/ |
+e c'- c'2 e c'- c' c' |
+b g e a- a2 A B |
+c c z2 c c z2 |
+B B/ B/ B e- e e e/ d/ c/ A/ |
+c c e/ d/ c/ A/ c c e/ d/ c/ A/ |
+% Bar 60 (1:58)
+c d g a- a2 a2 |
+c' a z2 c' a z a/ a/ |
+g e d c z c c/ B/ A/ G/ |
+[c3a3] [d-g-] [dg] g- g [e-a-] |
+[e8a8] |
+z8 |]
+
